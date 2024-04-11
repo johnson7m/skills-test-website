@@ -169,7 +169,7 @@ body {
 
 @media (max-width: 768px) {
   #section3 {
-    background-size: 300%;
-    background-position: 20% -10%;
+    background-size: 400%;
+    background-position: 30% 10%;
   }
 }
