@@ -1,7 +1,11 @@
 # skills-test-website
 skills-test
 
+!!WARNING: FOR WHATEVER REASON CHROME WILL SAY THIS IS A VIRUS, IGNORE IT IF YOU WANT TO RUN THE CODE LOCALLY, OTHERWISE YOU CAN JUST LOOK AT THE CODE AND VISIT THE PRODUCTION VERSION HERE: https://coalition-technologies-skills-test.netlify.app
+
 Coding Challenge for job interview
+
+
 
 THIS PROJECT DOES REQUIRE NPM, NODEJS, REACT-BOOTSTRAP
 
